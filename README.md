@@ -1,4 +1,8 @@
-This repository contains the source code of CVPR 2017 submission #601
+This repository contains the source code of CVPR 2017 submission "Hierarchical Boundary-Aware Neural Encoder for Video Captioning".
+
+The code belongs to the original authors of the papers.
+
+Please cite the work if you intend to use it.
 
 ### Requirements
 * [Theano](https://github.com/Theano/Theano) 0.9.0
